@@ -1,10 +1,17 @@
 {
-  "seq": 12,
   "title": "Open-Source SIEM (Wazuh) versus Managed Detection & Response for SMEs",
-  "slug": "open-source-siem-wazuh-versus-managed-detection-respons",
+  "old_slug": "open-source-siem-wazuh-versus-managed-detection-respons",
+  "slug": "wazuh-vs-mdr-for-smes",
   "folder": "Open_Source_Siem_Wazuh_Versus_Managed_Detection",
   "kind": "detect",
-  "body_words": 247,
+  "body_words": 314,
+  "source": "SCI700",
   "project_id": "Project 5",
-  "source": "SCI700"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
