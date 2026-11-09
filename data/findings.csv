@@ -1,0 +1,6 @@
+id,title,severity,cvss,epss,asset
+F1,Outdated service banner,high,8.2,0.41,vpn-edge
+F2,Missing MFA on admin,critical,9.1,0.55,entra
+F3,Verbose error page,low,3.1,0.02,www
+F4,Unquoted share ACL,medium,5.4,0.11,fileserver
+F5,Stale guest account,high,7.0,0.22,entra

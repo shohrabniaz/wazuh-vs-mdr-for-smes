@@ -1,0 +1,10 @@
+detections:
+  - id: D01
+    name: Impossible travel heuristic
+    severity: high
+  - id: D02
+    name: Legacy auth attempt
+    severity: medium
+  - id: D03
+    name: Mass download spike
+    severity: high
